@@ -71,9 +71,9 @@ class MainActivity : AppCompatActivity() {
     var BASE_URL = "https://sheets.googleapis.com/v4/spreadsheets/"
     private val REQUEST_SMS_PERMISSION = 1
     private var dialog: AlertDialog? = null
-    val masterSheetID = "1vfo921YwXP7FzhLL-U8WZBG1xM6XT2sFptp2W6aMbuM"
+    val masterSheetID = "KEY"
     val sheetName = "Sheet1"
-    val key = "AIzaSyCTKsgpHxrKxkBApc8NX0NaqwzlK_A_hPI"
+    val key = "KEY"
     var sheetResponse: SheetResponse? = null
     var tagIdInput: EditText? = null
     private lateinit var mediaPlayer: MediaPlayer
