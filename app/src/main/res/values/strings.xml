@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PS Tags</string>
+
+    <string name="tag_id">Tag ID</string>
+    <string name="phone">Phone</string>
+    <string name="note">Note</string>
+    <string name="_1">1</string>
+    <string name="_917460021388">+917460021388</string>
+    <string name="hi_am_deepak">hi am deepak</string>
+    <string name="retrive_data">Retrive data</string>
+    <string name="email_hint">Enter your email</string>
+    <string name="new_user">New user? Create account</string>
+    <string name="Login">Login</string>
+    <string name="pass_hint">Password</string>
+    <string name="register">Register</string>
+
+    <string-array name="error_beeps">
+        <item>Sound 1</item>
+        <item>Sound 2</item>
+        <item>Sound 3</item>
+    </string-array>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1036665411911",
+    "project_id": "pstags-71fef",
+    "storage_bucket": "pstags-71fef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036665411911:android:88b66924409dd9ece19462",
+        "android_client_info": {
+          "package_name": "com.example.smsautomation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEKO_VJp38BB1LIHOEY7B49sYH2kTBQ2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
